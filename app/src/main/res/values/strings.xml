@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LAB3</string>
+    <string name="choose">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <color name="redColor">#FFFF0000</color>
+    <color name="yellowColor">#FFFF00</color>
+    <color name="greenColor">#08bc08</color>
+    <color name="blueColor">#3b05ff</color>
+    <color name="purpleColor">#890aa6</color>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+    <string name="blue">Синий</string>
+    <string name="purple">Фиолетовый</string>
+    <string name="picture">Картинка</string>
+</resources>
